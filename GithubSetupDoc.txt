@@ -1,0 +1,32 @@
+ALL steps for Github Setup
+
+
+1.  create repositiries on Github.com
+
+2. click setup in your desktop
+
+3. open your github local client 
+
+4. clone repostiries.
+
+5. open your window explorer and copy your project to github workspace repostiries.
+
+6. open your eclipse and delete the project which was save in eclipse workspace.
+
+7. right click on eclipse progect window and click on import
+
+8. choose the exisiting workspace and click next 
+
+9. select the github workspace repostiries folder.
+
+10. go to your local github client then you can see all the files under your repostiries.
+
+11. select only .java files
+
+12. then commit to master 
+
+13. click on sync.
+
+14. go to your github.com and verify your repostiries having all files.
+
+15. whenever you update your project in eclipse you follow the step # 11 to 14.
